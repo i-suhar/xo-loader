@@ -54,7 +54,7 @@
     "simple"
   ],
   "peerDependencies": {
-    "xo": "^0.9.0"
+    "xo": "^0.11.0"
   },
   "dependencies": {
     "loader-utils": "^0.2.11",
